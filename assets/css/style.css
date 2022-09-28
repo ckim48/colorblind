@@ -866,7 +866,7 @@ section {
 }
 
 .portfolio .portfolio-item .portfolio-info h4 a:hover {
-  color: #3498db;
+  color: #EE854D;
 }
 
 .portfolio .portfolio-item .portfolio-info p {
@@ -1087,7 +1087,7 @@ section {
 
 .contact .info i {
   font-size: 20px;
-  color: #3498db;
+  color: #EE854D;
   float: left;
   width: 44px;
   height: 44px;
@@ -1650,6 +1650,9 @@ body {
 }*/
 .bg-accor{
   color: black;
+}
+.contact-color{
+  background-color: #AB47BC;
 }
 .information{
   color: black;

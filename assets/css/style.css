@@ -1651,6 +1651,9 @@ body {
 .bg-accor{
   color: black;
 }
+.information{
+  color: black;
+}
 .accordion-button:not(.collapsed) {
     color: #D85515;
     background-color: #EAD1B7;
